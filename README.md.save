@@ -36,15 +36,3 @@ app.get('/', (req,res)=>{
 //entregar uma porta
 //entregar uma porta para saber onde a gente pode acessar a aplicacao, para ter acesso ao código
 app.listen(3005)
-
-***Próximo passo***
-Abrir o postman
-Criar uma collection
-Colocar nome e criar pasta
-
-Clicar com botão direito na pasta, e criar request 
-criar uma maneira de ler requisições
-Colocar a URL da minha requisição
-http://localhost:3005/
-Enviar a requisição e receber uma resposta
-
